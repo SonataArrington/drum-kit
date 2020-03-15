@@ -30,3 +30,4 @@ In this project:
 
 * Keyword 'this' refers to the object that it belongs to. var greeting = {morning: "Good morning", afternoon: "Good afternoon", evening: "Good evening", function() {this.afternoon;}}
 
+* Update safari access
