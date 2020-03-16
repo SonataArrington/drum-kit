@@ -1,4 +1,4 @@
-Javascript Project 1 of 31
+Javascript Day/Project 1 of 31
 
 Drum Kit 
 
